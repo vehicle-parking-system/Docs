@@ -7,7 +7,7 @@ Jira board: https://shorturl.at/TYMPP
 | Document | File | Version | Owner |
 |---|---|---|---|
 | Software Requirements Specification (IEEE 830 style) | [Vehicle_Parking_System_SRS.docx](Vehicle_Parking_System_SRS.docx) | **1.1**, 13-11-2026 | Daruru Bhuvan Sai |
-| SRS, printable | [Vehicle_Parking_System_SRS.pdf](Vehicle_Parking_System_SRS.pdf) | 1.0, 06-09-2026 (re-export pending) | |
+| SRS, printable | [Vehicle_Parking_System_SRS.pdf](Vehicle_Parking_System_SRS.pdf) | 1.1, 13-11-2026 (exported from the .docx) | Daruru Bhuvan Sai |
 | Software Architecture & Design (SAD) | [Vehicle_Parking_System_SAD.docx](Vehicle_Parking_System_SAD.docx) | 1.0 | Kshitij Gupta |
 | Component diagram | [Component_Diagram.png](Component_Diagram.png) | 1.0 | Kshitij Gupta |
 | Software Test Plan (IEEE 829 style) | [Vehicle_Parking_System_Test_Plan.docx](Vehicle_Parking_System_Test_Plan.docx) | **2.0**, 13-11-2026 | Daruru Bhuvan Sai |
