@@ -6,11 +6,12 @@ Jira board: https://shorturl.at/TYMPP
 
 | Document | File | Version | Owner |
 |---|---|---|---|
-| Software Requirements Specification (IEEE 830 style) | [Vehicle_Parking_System_SRS.docx](Vehicle_Parking_System_SRS.docx) | **1.1**, 13-11-2026 | Daruru Bhuvan Sai |
-| SRS, printable | [Vehicle_Parking_System_SRS.pdf](Vehicle_Parking_System_SRS.pdf) | 1.1, 13-11-2026 (exported from the .docx) | Daruru Bhuvan Sai |
+| Software Requirements Specification (IEEE 830 style) | [Vehicle_Parking_System_SRS.docx](Vehicle_Parking_System_SRS.docx) | **1.3**, 16-11-2026 | Anirudh G Achar (v1.2), Daruru Bhuvan Sai (v1.1, v1.3) |
+| SRS, printable | [Vehicle_Parking_System_SRS.pdf](Vehicle_Parking_System_SRS.pdf) | 1.3, 16-11-2026 (exported from the .docx) | Daruru Bhuvan Sai |
 | Software Architecture & Design (SAD) | [Vehicle_Parking_System_SAD.docx](Vehicle_Parking_System_SAD.docx) | 1.0 | Kshitij Gupta |
 | Component diagram | [Component_Diagram.png](Component_Diagram.png) | 1.0 | Kshitij Gupta |
 | Software Test Plan (IEEE 829 style) | [Vehicle_Parking_System_Test_Plan.docx](Vehicle_Parking_System_Test_Plan.docx) | **2.0**, 13-11-2026 | Daruru Bhuvan Sai |
+| Sprint 3 Requirements Traceability Matrix and test case log | [VPS_Sprint3_Requirements_Traceability_Matrix.xlsx](VPS_Sprint3_Requirements_Traceability_Matrix.xlsx) | 16-11-2026, all 31 SRS v1.3 requirements | Y V Bhavana |
 
 Each .docx has a revision history table on its first page.
 
